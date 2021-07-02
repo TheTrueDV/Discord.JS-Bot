@@ -1,0 +1,1 @@
+When adding a new command, make sure you put it in a folder, as the bot will error out otherwise. This is due to it reading directory structure.
